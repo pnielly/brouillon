@@ -1,10 +1,8 @@
 #include <unistd.h>
 
+void	ft_putstr(char	*s);
+
 int	main(void)
 {
-	char	i;
-
-	i = '2';
-	write(1, &i, 1);
-	write(1, "\n", 1);
+	ft_putstr("Bonjour\n");
 }
