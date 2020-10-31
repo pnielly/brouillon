@@ -1,2 +1,2 @@
-gcc test.c ft_putstr.c
+gcc test.c gogo.c
 ./a.out
