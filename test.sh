@@ -1,2 +1,2 @@
-gcc test.c
+gcc main.c
 ./a.out
